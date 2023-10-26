@@ -1,0 +1,1 @@
+Footprint J4 von "Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002" in "KICAD_USER_FOOTPRINT_DIR:BarrelJack_Wuerth_1mm" geändert: : OK
